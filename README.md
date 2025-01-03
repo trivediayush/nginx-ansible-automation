@@ -12,7 +12,7 @@ This project uses Ansible to automate the installation and management of Nginx o
 
 Before running the playbook, you need to add the IP addresses of your target servers to the **inventory** file. The file should look like this:
 
-```init
+```ini
 [web_servers]
 server1_ip
 server2_ip
