@@ -31,8 +31,4 @@ This will trigger the playbook to install Nginx, start the service, and ensure t
 install_nginx.yml: This playbook installs Nginx, starts the service, and ensures it is running on all servers specified in the inventory file.
 
 ## License
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Apache License, Version 2.0, January 2004, http://www.apache.org/licenses/
